@@ -1,6 +1,13 @@
-# naslov #
+# naslov 
+## naslov 
+### naslov 
+#### naslov 
+##### naslov 
 
 spremenjeno123!
+ 
+
+
 ## About this repository ##
 
 This is the repository that you will use at the starting point for the FRI Data Science Project Competition. In this readme file you will find short instructions for the most important tasks that are ahead of you. A copy of this content can be found in `instructions.md`, meaning that you should replace the contents of this README file with something meaningful for your project (e.g. a description of your project, versioning, etc.).
